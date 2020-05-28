@@ -13,3 +13,4 @@ end
 end
 lower_key
 end
+p key_for_min_value(ikea)
