@@ -10,3 +10,6 @@ name_hash.each do |key,value|
     lower_value = value
     lower_key = key
 end
+end
+lower_key
+end
