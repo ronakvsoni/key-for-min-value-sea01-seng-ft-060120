@@ -14,3 +14,4 @@ end
 lower_key
 end
 p key_for_min_value(ikea)
+p key_for_min_value(veggies)
